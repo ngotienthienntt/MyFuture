@@ -1,0 +1,73 @@
+Nghề nghiệp: Lập trình
+
+Back-end: Nodejs, Nestjs
+dev-op
+
+Tạm thời cứ đi theo hướng back-end trước đã 
+
+=> Tạo ra một trang web cho riêng mình có các chức năng sau(sử dụng backend: nestjs, font-end: react, database: mongod)
+	- Profile của chính mình
+	- Viết những bài viết (về cuộc sống, lập trình, xàm...)
+	- Tạo những bài học, 
+		Dạy lại những thứ mình đã học:
+			Cơ bản: (Nhập môn lập trình, Kỹ thuật lập trình, Cấu trúc dữ liệu và giải thuật, Phương pháp lập trình hướng đối tượng, Cơ sở dữ liệu, Mạng máy tính, 
+				Lập trình web1-2, 
+			Nâng cao: Javascript, Typescript, Nodejs, Nestjs, Mongodb, Moongose, design pattern
+				- Hướng dẫn viết game, Code những dự án thực tế
+	- Viết nhật ký hàng ngày
+	- Tạo kế hoạch cho cuộc sống
+	=> thanh menu my website: About me, My blog(my life, my code, ..), My course, my project, review book
+- Đọc những quyển sách về javascript
+- Luyện thuật toán trên hackerank hoặc leetcode
+- Học 2 khóa học trên free code camp (backend và javascript althorithm)
+- project làm cho vui: Chat, Game pubg 2d, Game caro, Game cờ tướng
+
+Ngôn ngữ: Tiếng Anh
+	Từ vựng: 
+		cơ bản: 1000(done)
+		trung bình: 3000(processing)
+		nâng cao: 5000
+		Từ vựng chuyên ngành:(processing)
+		Động từ bất quy tắc
+		cụm từ: colocation, cụm động từ,
+	Ngữ pháp:
+		Cơ bản: 
+			1. Các thì trong tiếng anh
+			2. Các loại câu
+				Câu chủ động
+				Câu bị động
+				Câu trực tiếp
+				Câu gián tiếp
+				Câu điều kiện
+				Câu so sánh
+				Câu đảo ngữ
+			3. Các mệnh đề quan hệ
+			4. Hòa hợp giữa chủ ngữ và động từ
+			5. Cách thành lập từ loại
+			6. Các sử dụng giới từ, mạo từ và liên từ
+			7. Các mẫu câu thông dụng 
+			
+		Nâng cao:
+	- Tạo những bài học bằng tiếng anh
+	- Tìm câu lạc bộ offline để luyện tập
+Sở thích:
+	Đàn hát(guitar, violin)
+	Vẽ
+	Nấu ăn
+	hamonica
+	nhảy
+	Đánh trống
+Sức khỏe:
+	Chạy bộ
+	Đi bơi (tập nhảy, bơi sải, bơi bướm)
+	Cầu lông
+		- khi phát cầu xong lùi lại một chút và ở tư thế chuẩn bị
+		- phông cầu nên đánh cầu vào phần trên cùng của mặt vợt
+		- đập cầu thì đập ở chính giữa mặt vợt
+	tập cadio, Nhảy dây
+	Đá bóng
+	Tập đá cầu kiểu cầu mây
+
+Giao tiếp
+	Tập nói chuyện trước gương
+	Giọng điệu tự nhiên, là chính mình
