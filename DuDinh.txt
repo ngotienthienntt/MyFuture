@@ -1,3 +1,4 @@
+
 Nghề nghiệp: Lập trình
 
 Back-end: Nodejs, Nestjs
@@ -21,6 +22,7 @@ Tạm thời cứ đi theo hướng back-end trước đã
 - Luyện thuật toán trên hackerank hoặc leetcode
 - Học 2 khóa học trên free code camp (backend và javascript althorithm)
 - project làm cho vui: Chat, Game pubg 2d, Game caro, Game cờ tướng
+- Tìm cách nâng cao trí nhớ, thông minh IQ
 
 Ngôn ngữ: Tiếng Anh
 	Từ vựng: 
@@ -70,4 +72,9 @@ Sức khỏe:
 
 Giao tiếp
 	Tập nói chuyện trước gương
-	Giọng điệu tự nhiên, là chính mình
+Giọng điệu tự nhiên, là chính mình
+
+Tinh thần
+	- Hiểu được bản thân mình
+	- Làm sao để sống hạnh phúc hơn
+
